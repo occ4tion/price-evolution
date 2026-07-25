@@ -1,15 +1,19 @@
 #==================================
+
  What this is / is not:
+ 
 #==================================
 
- a simple BTC-price analysis tool (2026/Q2)
- written in Febr, 2026.
- data source: coinmarketcap.com > BTC > all > cvs.
- there is no prediction implemented
- it is in no way a tool to predict anything.
+ 1. a simple BTC-price analysis tool (2026/Q2)
+ 2. written in Febr, 2026.
+ 3. data source: coinmarketcap.com > BTC > all > cvs.
+ 4. there is no prediction implemented
+ 5. it is in no way a tool to predict anything.
 
 #==================================
+ 
  Manual:
+ 
 #==================================
 
  1. run BTC_init
