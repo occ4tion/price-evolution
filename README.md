@@ -1,8 +1,6 @@
 #==================================
 
  What this is / is not:
- 
-#==================================
 
  1. a simple BTC-price analysis tool (2026/Q2)
  2. written in Febr, 2026.
@@ -13,8 +11,7 @@
 #==================================
  
  Manual:
- 
-#==================================
+
 
  1. run BTC_init
  2. run basic_analysis (this one)
