@@ -1,6 +1,6 @@
-==================================
+#==================================
  What this is / is not:
-==================================
+#==================================
 
  a simple BTC-price analysis tool (2026/Q2)
  written in Febr, 2026.
@@ -8,9 +8,9 @@
  there is no prediction implemented
  it is in no way a tool to predict anything.
 
-==================================
+#==================================
  Manual:
-==================================
+#==================================
 
  1. run BTC_init
  2. run basic_analysis (this one)
